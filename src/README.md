@@ -4,7 +4,7 @@
 
 1. Extract the csv.zip in the input folder
 
-2. configure the config.json the root folder (I/O paths and file formats). Only give absolute paths to the I/O destinations
+2. configure the config.json in the root folder (I/O paths and file formats). Only give absolute paths to the I/O destinations
 
 3. submit the main.py to spark with the command line option as 1-10 or 'all'
 
