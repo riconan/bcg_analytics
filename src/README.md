@@ -10,7 +10,7 @@
 
 4. submit job will execute the necessary analytics and the output will be available in the configured destination
 
-5. time taken for each analytics along with the output is present in the main.log file that gets generated upon execution
+5. time taken for each analytics along with the output is present in the main.log file that gets generated upon execution (INFO logs will be the output).  
 
 ---------
 
