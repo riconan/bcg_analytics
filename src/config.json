@@ -1,0 +1,84 @@
+{
+    "input" : {
+
+
+        "primary_person" : {
+                "abs_basepath" : "/home/deepan/Documents/pyspark/venv/src/input/csv/", 
+                "stem" : "Primary_Person_use.csv",
+                "file_format" : "csv", 
+                "sep" : ",", 
+                "header" : "true"
+                },
+
+        "units" : {
+                "abs_basepath" : "/home/deepan/Documents/pyspark/venv/src/input/csv/", 
+                "stem" : "Units_use.csv",
+                "file_format" : "csv", 
+                "sep" : ",", 
+                "header" : "true"
+                },
+
+        "charges" : {
+                "abs_basepath" : "/home/deepan/Documents/pyspark/venv/src/input/csv/", 
+                "stem" : "Charges_use.csv",
+                "file_format" : "csv", 
+                "sep" : ",", 
+                "header" : "true"
+                },
+        "damages" : {
+                "abs_basepath" : "/home/deepan/Documents/pyspark/venv/src/input/csv/", 
+                "stem" : "Damages_use.csv",
+                "file_format" : "csv", 
+                "sep" : ",", 
+                "header" : "true"
+                }
+            },
+
+
+    "output" : {
+        "analytics_1" : {
+                    "abs_path" : "/home/deepan/Documents/pyspark/venv/src/output/analytics_1",
+                    "file_format" : "csv"
+        },
+
+        "analytics_2" : {
+                    "abs_path" : "/home/deepan/Documents/pyspark/venv/src/output/analytics_2",
+                    "file_format" : "csv"
+        },
+        "analytics_3" : {
+                    "abs_path" : "/home/deepan/Documents/pyspark/venv/src/output/analytics_3",
+                    "file_format" : "csv"
+        },
+        "analytics_4" : {
+                    "abs_path" : "/home/deepan/Documents/pyspark/venv/src/output/analytics_4",
+                    "file_format" : "csv"
+        },
+
+        "analytics_5" : {
+                    "abs_path" : "/home/deepan/Documents/pyspark/venv/src/output/analytics_5",
+                    "file_format" : "csv"
+        },
+
+        "analytics_6" : {
+                    "abs_path" : "/home/deepan/Documents/pyspark/venv/src/output/analytics_6",
+                    "file_format" : "csv"
+        },
+
+        "analytics_7" : {
+                    "abs_path" : "/home/deepan/Documents/pyspark/venv/src/output/analytics_7",
+                    "file_format" : "csv"
+        },
+        "analytics_8" : {
+                    "abs_path" : "/home/deepan/Documents/pyspark/venv/src/output/analytics_8",
+                    "file_format" : "csv"
+        },
+        "analytics_9" : {
+                    "abs_path" : "/home/deepan/Documents/pyspark/venv/src/output/analytics_9",
+                    "file_format" : "csv"
+        },
+       "analytics_10" : {
+                    "abs_path" : "/home/deepan/Documents/pyspark/venv/src/output/analytics_10",
+                    "file_format" : "csv"
+        }
+    }
+}

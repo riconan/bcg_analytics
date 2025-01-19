@@ -1,0 +1,54 @@
+2025-01-19 21:08:35,765 _main.py utils.logging._main DEBUG analytics_1 execution start
+2025-01-19 21:08:37,971 _main.py utils.logging._main WARNING /home/deepan/Documents/pyspark/venv/src/output/analytics_1 will be overwritten
+2025-01-19 21:08:39,400 analytics_1.py utils.logging._main INFO Total Accidents where the number of male deaths is > 2 = 0
+2025-01-19 21:08:39,400 _main.py utils.logging._main DEBUG analytics_1 execution end
+2025-01-19 21:08:39,400 _main.py utils.logging._main DEBUG total execution time for analytics_1 : 0:00:03.635000
+2025-01-19 21:08:39,401 _main.py utils.logging._main DEBUG analytics_2 execution start
+2025-01-19 21:08:39,685 _main.py utils.logging._main WARNING /home/deepan/Documents/pyspark/venv/src/output/analytics_2 will be overwritten
+2025-01-19 21:08:40,775 analytics_2.py utils.logging._main INFO Total Two wheelers booked for crashes is = 401
+2025-01-19 21:08:40,775 _main.py utils.logging._main DEBUG analytics_2 execution end
+2025-01-19 21:08:40,775 _main.py utils.logging._main DEBUG total execution time for analytics_2 : 0:00:01.373000
+2025-01-19 21:08:40,776 _main.py utils.logging._main DEBUG analytics_3 execution start
+2025-01-19 21:08:40,981 _main.py utils.logging._main WARNING /home/deepan/Documents/pyspark/venv/src/output/analytics_3 will be overwritten
+2025-01-19 21:08:41,896 analytics_3.py utils.logging._main INFO Top 5 Vehicle Makes of the cars present in the crashes in which driver died and Airbags did not deploy = [('NISSAN', '4'), ('CHEVROLET', '3'), ('FORD', '2'), ('HONDA', '2'), ('PONTIAC', '1')]
+2025-01-19 21:08:41,896 _main.py utils.logging._main DEBUG analytics_3 execution end
+2025-01-19 21:08:41,896 _main.py utils.logging._main DEBUG total execution time for analytics_3 : 0:00:01.120000
+2025-01-19 21:08:41,897 _main.py utils.logging._main DEBUG analytics_4 execution start
+2025-01-19 21:08:42,080 _main.py utils.logging._main WARNING /home/deepan/Documents/pyspark/venv/src/output/analytics_4 will be overwritten
+2025-01-19 21:08:43,487 analytics_4.py utils.logging._main INFO Number of Vehicles with driver having valid licences involved in hit and run = 510
+2025-01-19 21:08:43,487 _main.py utils.logging._main DEBUG analytics_4 execution end
+2025-01-19 21:08:43,488 _main.py utils.logging._main DEBUG total execution time for analytics_4 : 0:00:01.591000
+2025-01-19 21:08:43,489 _main.py utils.logging._main DEBUG analytics_5 execution start
+2025-01-19 21:08:43,625 _main.py utils.logging._main WARNING /home/deepan/Documents/pyspark/venv/src/output/analytics_5 will be overwritten
+2025-01-19 21:08:44,721 analytics_5.py utils.logging._main INFO State having the highest number of accidents in which females are not involved = [('TX', '36588')]
+2025-01-19 21:08:44,722 _main.py utils.logging._main DEBUG analytics_5 execution end
+2025-01-19 21:08:44,722 _main.py utils.logging._main DEBUG total execution time for analytics_5 : 0:00:01.233000
+2025-01-19 21:08:44,722 _main.py utils.logging._main DEBUG analytics_6 execution start
+2025-01-19 21:08:44,845 _main.py utils.logging._main WARNING /home/deepan/Documents/pyspark/venv/src/output/analytics_6 will be overwritten
+2025-01-19 21:08:45,831 analytics_6.py utils.logging._main INFO State having the highest number of accidents in which females are not involved = [('TOYOTA', '4227'), ('DODGE', '3136'), ('NISSAN', '3113')]
+2025-01-19 21:08:45,831 _main.py utils.logging._main DEBUG analytics_6 execution end
+2025-01-19 21:08:45,831 _main.py utils.logging._main DEBUG total execution time for analytics_6 : 0:00:01.109000
+2025-01-19 21:08:45,832 _main.py utils.logging._main DEBUG analytics_7 execution start
+2025-01-19 21:08:45,991 _main.py utils.logging._main WARNING /home/deepan/Documents/pyspark/venv/src/output/analytics_7 will be overwritten
+2025-01-19 21:08:47,482 analytics_7.py utils.logging._main INFO For all the body styles involved in crashes, mention the top ethnic user group of each unique body style = [('BUS', 'BLACK'), ('NA', 'WHITE'), ('VAN', 'WHITE'), ('PICKUP', 'WHITE'), ('SPORT UTILITY VEHICLE', 'WHITE'), ('PASSENGER CAR, 4-DOOR', 'WHITE'), ('FIRE TRUCK', 'WHITE'), ('TRUCK', 'WHITE'), ('UNKNOWN', 'UNKNOWN'), ('AMBULANCE', 'WHITE'), ('POLICE CAR/TRUCK', 'WHITE'), ('MOTORCYCLE', 'WHITE'), ('YELLOW SCHOOL BUS', 'BLACK'), ('POLICE MOTORCYCLE', 'WHITE'), ('PASSENGER CAR, 2-DOOR', 'WHITE'), ('TRUCK TRACTOR', 'WHITE'), ('FARM EQUIPMENT', 'WHITE'), ('NEV-NEIGHBORHOOD ELECTRIC VEHICLE', 'WHITE'), ('OTHER  (EXPLAIN IN NARRATIVE)', 'WHITE'), ('NOT REPORTED', 'WHITE')]
+2025-01-19 21:08:47,482 _main.py utils.logging._main DEBUG analytics_7 execution end
+2025-01-19 21:08:47,482 _main.py utils.logging._main DEBUG total execution time for analytics_7 : 0:00:01.649000
+2025-01-19 21:08:47,483 _main.py utils.logging._main DEBUG analytics_8 execution start
+2025-01-19 21:08:47,619 _main.py utils.logging._main WARNING /home/deepan/Documents/pyspark/venv/src/output/analytics_8 will be overwritten
+2025-01-19 21:08:48,357 analytics_8.py utils.logging._main INFO Among the crashed cars, what are the Top 5 Zip Codes with highest number crashes with alcohols as the contributing factor to a crash = [('78521', '32'), ('79936', '25'), ('76010', '25'), ('79938', '24'), ('78240', '21')]
+2025-01-19 21:08:48,357 _main.py utils.logging._main DEBUG analytics_8 execution end
+2025-01-19 21:08:48,357 _main.py utils.logging._main DEBUG total execution time for analytics_8 : 0:00:00.874000
+2025-01-19 21:08:48,358 _main.py utils.logging._main DEBUG analytics_9 execution start
+2025-01-19 21:08:48,522 _main.py utils.logging._main WARNING /home/deepan/Documents/pyspark/venv/src/output/analytics_9 will be overwritten
+2025-01-19 21:08:49,713 analytics_9.py utils.logging._main INFO Count of Distinct Crash IDs where No Damaged Property was observed and Damage Level (VEH_DMAG_SCL~) is above 4 and car avails Insurance = 5442
+2025-01-19 21:08:49,713 _main.py utils.logging._main DEBUG analytics_9 execution end
+2025-01-19 21:08:49,713 _main.py utils.logging._main DEBUG total execution time for analytics_9 : 0:00:01.355000
+2025-01-19 21:08:49,714 _main.py utils.logging._main DEBUG analytics_10 execution start
+2025-01-19 21:08:50,074 _main.py utils.logging._main WARNING /home/deepan/Documents/pyspark/venv/src/output/analytics_10 will be overwritten
+2025-01-19 21:08:52,261 analytics_10.py utils.logging._main INFO Top 5 Vehicle Makes where 
+            drivers are charged with speeding related offences, 
+            has licensed Drivers, 
+            used top 10 used vehicle colours and 
+            has car licensed with the Top 25 states with highest number of offences = ['FORD', 'CHEVROLET', 'TOYOTA', 'HONDA', 'NISSAN']
+2025-01-19 21:08:52,261 _main.py utils.logging._main DEBUG analytics_10 execution end
+2025-01-19 21:08:52,261 _main.py utils.logging._main DEBUG total execution time for analytics_10 : 0:00:02.546000
