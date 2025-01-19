@@ -20,7 +20,7 @@ analytics package contains individual analytics as a separate module.
 
 logger defined in the utils.logger module is the preferred way of logging across the project. dest of the log file can be configured there.
 
-all the python code uses only the standard library that comes pre-packaged with python.
+all the python code uses only the standard library that comes pre-packaged with python. Thus didn't add any requirements file.  
 
 ---------
 ##### Test System Spec
